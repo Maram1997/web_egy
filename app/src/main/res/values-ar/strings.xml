@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Egydesigner</string>
+    <string name="home">الرئسية</string>
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+
+</resources>

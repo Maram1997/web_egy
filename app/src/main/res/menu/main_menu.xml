@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home_24px"
+                android:orderInCategory="100"
+                android:title="الرئسيه"
+                />
+            <item
+                android:id="@+id/nav_who"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_sms_24px"
+                android:title="من نحن"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_last_works"
+                android:orderInCategory="100"
+                android:icon="@drawable/check_mark"
+                android:title="سابقة الاعمال"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_offers"
+                android:orderInCategory="100"
+                android:icon="@drawable/offers_copy"
+                android:title="العروض"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/nav_conect"
+                android:icon="@android:drawable/ic_menu_call"
+                android:orderInCategory="100"
+                android:title="اتصل بنا"
+                app:showAsAction="never" />
+    <item
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="100"
+        android:title=""
+        app:showAsAction="never" />
+    <item
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="100"
+        android:title=""
+        app:showAsAction="never" />
+    <item
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="100"
+        android:title=""
+        app:showAsAction="never" />
+  <item
+                android:icon="@android:drawable/ic_menu_call"
+                android:orderInCategory="100"
+                android:title=""
+                app:showAsAction="never" />
+
+</menu>
